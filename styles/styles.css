@@ -1,0 +1,244 @@
+
+
+.head{
+    padding-top: 111px;
+    text-align: center;
+    font-family: 'Montserrat',sans-serif;
+
+    background-color: #1E1E1E;
+
+    color: white;
+    position: relative;
+}
+
+.head h1{
+    font-size: 140px;
+    font-weight: 700;
+    line-height: 170px;
+}
+
+.head h2{
+    font-size: 36px;
+    font-weight: 500;
+    line-height: 43px;
+
+    padding-bottom: 580px;
+}
+
+.iphone_container{
+    position: absolute;
+    top: 395px;
+    text-align: center;
+    width: 100%;
+}
+
+.about_iphone_13{
+    width: 100%;
+    text-align: center;
+    margin-top: 245px;
+    margin-bottom: 258px;
+   
+    
+    font-family: 'Raleway', sans-serif;
+}
+
+.about_iphone_13 h1{
+    font-weight: 700;
+    font-size: 64px;
+    line-height: 75px;
+    padding: 50px 0;
+}
+
+.about_iphone_13 p{
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 37px;
+    margin: 0 273px;
+    margin-bottom: 72px;
+}
+
+.make_choise_text p{
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 31px;
+    margin-bottom: 6px;
+}
+
+.iphone_body{
+    width: 100%;
+    margin: 0 auto;
+    height: 567px;
+    background-color: #1E1E1E;
+    position: relative;
+
+    margin-bottom: 78px;
+}
+
+.iphone_screen{
+    background-image: url(../resources/iphone_body.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+
+    text-align: center;
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    top:-154px;
+}
+
+.iphone_screen_text{
+    text-align: center;
+    font-family: 'Raleway', sans-serif;
+    color: white;
+
+    margin: 0 auto;
+    width: 941px;
+}
+
+.iphone_screen_text h2{
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 60px;
+
+    margin-top: 91px;
+    margin-bottom: 60px;
+
+    text-transform: uppercase;
+}
+
+.iphone_screen_text h3{
+    font-weight: 500;
+    font-size: 36px;
+    line-height: 56px;
+
+    margin-bottom: 30px;
+}
+
+.iphone_screen_text p{
+    color: #7A7A7A;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 30px;
+}
+
+.make_choise h2{
+    font-family: 'Raleway', sans-serif;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 38px;
+    color: #292929;
+
+    text-align: center;
+}
+
+
+.buy_iphone_container{
+    margin: 57px 90px 61px 90px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.buy_iphone_container img{
+    width: 128px;
+    height: 128px;
+}
+
+.buy_iphone{
+    margin-right: 24px;
+}
+
+.buy_iphone img{
+    height: 418px;
+    width: 384px;
+}
+
+.buy_description{
+    background-color: #1B1B1B;
+    border-radius: 0 0 32px 32px;
+    padding: 24px 24px 24px 24px;
+}
+
+.buy_description h2{
+    text-align: left;
+    color: white;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 700;
+    font-size: 28px;
+    line-height: 33px;
+}
+
+.buy_description p{
+    color: rgb(117, 117, 117);
+    font-family: 'Montserrat',sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 20px;
+
+    margin-bottom: 20px;
+}
+
+.buy_description h3{
+    color: white;
+    font-family: 'Montserrat';
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 30px;
+    
+    margin-bottom: 16px;
+}
+
+.buy_description button{
+    background-color: white;
+    font-family: 'Montserrat';
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 24px;
+
+    width: 100%;
+
+    padding: 21px 60px;
+    border-radius: 30px;
+
+    cursor: pointer;
+}
+
+.back-next_container{
+    text-align: center;
+}
+
+.promo{
+    width: 100%;
+    background-color: #1B1B1B;
+    text-align: center;
+}
+
+.promo h2{
+    padding-top: 71px;
+    margin-bottom: 28px;
+
+    font-family: 'Montserrat';
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 38px;
+    color: white;
+}
+
+.promo p{
+    width: 607px;
+
+    font-family: 'Montserrat';
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 25px;
+    color: #acacac;
+
+    margin: 0 auto 55px auto;
+
+}
+
+.promo img{
+    margin-bottom: 118px;
+}
