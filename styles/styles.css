@@ -122,6 +122,10 @@
     line-height: 30px;
 }
 
+.make_choise{
+    margin-bottom: 60px;
+}
+
 .make_choise h2{
     font-family: 'Raleway', sans-serif;
     font-weight: 700;
@@ -241,4 +245,67 @@
 
 .promo img{
     margin-bottom: 118px;
+}
+
+.iphone_sell{
+    padding-top: 90px;
+    display: flex;
+    justify-content: center;
+    font-family: 'Montserrat';
+}
+
+.iphone_sell_text_input{
+    width: 420px;
+    padding-left: 80px;
+    padding-top: 80px;
+}
+
+.iphone_sell_text_input p{
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+    color: #727272;
+
+    margin-bottom: 32px;
+}
+
+.input_email{
+    display: flex;
+    border: 1.5px solid #C8C8C8;
+    border-radius: 32px;
+
+    text-align: right;
+}
+
+.input_email input{
+    border: none;
+    width: 100%;
+    padding: 24px 0 24px 24px;
+    border-radius: 32px;
+
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 17px;
+    color: #545454;
+
+}
+
+.input_email input:focus{
+    outline: none;
+}
+
+.input_email button{
+    background-color: #262525;
+    color: white;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 17px;
+
+    border-radius: 32px;
+    padding: 16px 42px;
+    margin: 8px 8px 8px 0;
+}
+
+.input_email button:hover{
+    cursor: pointer;
 }
